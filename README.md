@@ -1,4 +1,4 @@
-# Django-eCommerce-tutorial-manascode 
+# Django-eCommerce-tutorial
 
 
 Steps to get started
